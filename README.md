@@ -20,7 +20,7 @@ The events below are log in the console:
  * reconnect_failed,
  * disconnect.
 
-If you send an emit on ```"broadcastme"``, you will recieve an emit on ```"broadcast"```.
+If you send an emit on ```"broadcastme"```, you will receive an emit on ```"broadcast"```.
 
 ### CORS
 Cors is enabled with ```Access-Control-Allow-Origin: "*"```
