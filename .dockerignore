@@ -1,0 +1,9 @@
+.git
+.idea
+.gitignore
+node_modules
+README.md
+LICENSE
+Dockerfile
+package-lock.json
+npm-debug.log

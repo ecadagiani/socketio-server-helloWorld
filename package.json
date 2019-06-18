@@ -1,0 +1,24 @@
+{
+  "name": "socketio-server-helloworld",
+  "version": "1.0.0",
+  "description": "A very simple socket.io server, for test purposes.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecadagiani/socketio-server-helloWorld.git"
+  },
+  "author": "Eden Cadagiani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecadagiani/socketio-server-helloWorld/issues"
+  },
+  "homepage": "https://github.com/ecadagiani/socketio-server-helloWorld#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
